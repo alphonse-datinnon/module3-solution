@@ -13,7 +13,7 @@ h1
 
 body 
 {
-  background-color: rgb(124, 108, 143);
+  background-color: rgb(163, 150, 179);
 }
 
 p 
@@ -94,7 +94,7 @@ section
   font-size: 125%;
   margin-bottom: 0;
   margin-top: 0;
-  background-color: rgb(109, 179, 152);
+  background-color: rgb(212, 201, 35);
   color: black;
   padding: 5px;
 }
@@ -126,19 +126,20 @@ section
 
 #header-nav 
 {
-  border: 0;
-  background-color: rgb(168, 66, 143);
+  border: 10px;
+  background-color: rgb(151, 174, 209);
   color: rgb(247, 242, 242);
 } 
 
-.navbar-header button.navbar-toggle, .navbar-header .icon-bar 
+.navbar-header-button .navbar-toggle, .navbar-header .icon-bar 
 {
-  border: 1px solid #ebe0e5;
+  border: 1px solid #ece8ea;
 }
 .navbar-header button .navbar-toggle
 {
   clear: both;
   margin-top: 30;
+  vertical-align: bottom;
 }
 
 .nav-header 
@@ -147,7 +148,7 @@ section
 }
 
 .brand-nav {
-  color: rgb(204, 139, 139);
+  color: rgb(238, 232, 232);
   font-size: 1.5em;
 }
 
@@ -160,11 +161,11 @@ section
 
 hr 
 {
-  border-color: rgb(158, 151, 151);
+  border-color: rgb(168, 45, 45);
 }
 
 .item 
 {
-  color: rgb(56, 54, 54);
+  color: rgb(241, 237, 237);
   font-size: 1em;
 }
